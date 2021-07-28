@@ -23,7 +23,7 @@ The user can select these streams manually or be offered a suggestion from a per
 are all correct however each one provides a different insight on which stream the user may best fit into.
   The results will provide a pie chart showing a clear indication of what stream the users responses have converged
   towards.
-  <img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/quiz.jpg" alt="alt text" width="711" height="378.5">
+  <img src="appScreenCaps/quiz.jpg" alt="alt text" width="711" height="378.5">
 
 For each of the streams there will be 3 different games to play, all tailored to the selected stream.
 * i.e. If you selected a game on the software testing stream, you will expect questions about software testing.
@@ -35,24 +35,24 @@ For each of the streams there will be 3 different games to play, all tailored to
   user just needs to click on the cable end on the left and to connect it to the answer you click on the cable end on 
   the right.
   <br><br>
-  <img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/cables.jpg" alt="alt text" width="711" height="378.5">
+  <img src="appScreenCaps/cables.jpg" alt="alt text" width="711" height="378.5">
 * Pipe Game - The user directs the flow from a question pipe to a receiving pipe showing the correct answer. This
   will involve clicking on different pipes on the grid, rotating them and altering the flow path to ensure it goes to 
   the correct answer. There are 3 answers displayed, and the correct answer location is always random. To win you
   must direct the flow to the correct answer before the time runs out. 
   <br><br>
-  <img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/pipes.jpg" alt="alt text" width="711" height="378.5">
+  <img src="appScreenCaps/pipes.jpg" alt="alt text" width="711" height="378.5">
 * Memory Game - The user must match up pairs of hidden icons on a grid by clicking on them and learning the location
 of these icons. When a match is found, the pair is shown and coloured green on the grid, when a match is incorrect then
   the two icons selected flash red to indicate they are incorrect. The user must find all the matching pairs before the
   time runs out.
-  <img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/memory%20game.jpg" alt="alt text" width="711" height="378.5">
+  <img src="appScreenCaps/memory game.jpg" alt="alt text" width="711" height="378.5">
 ## User authentication
 
 * Users can create a helper account by clicking on the helper page button at the bottom of the home page.<br>
-<img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/helper%20login.jpg" alt="alt text" width="711" height="378.5">
+<img src="appScreenCaps/helper login.jpg" alt="alt text" width="711" height="378.5">
 * Helpers can view existing game questions and add new ones, as well as keep track of the best players for each game.<br>
-<img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/helper%20page.jpg" alt="alt text" width="711" height="378.5">
+<img src="appScreenCaps/helper page.jpg" alt="alt text" width="711" height="378.5">
 * Newly created accounts are inactive until approved by an admin, which can take up to 24 hours.<br>
 * To access the helper page on your local machine (without contacting an admin) you can log in with those credentials:
 
