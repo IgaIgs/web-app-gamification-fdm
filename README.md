@@ -14,9 +14,9 @@ This document contains a description of the project and the functionality availa
 ## Introduction
 
 The product developed is a web application which greets the user with a homepage showing three 
-different career streams, Software Testing, Business Intelligence and Technical Operations. 
+different career streams; Software Testing, Business Intelligence and Technical Operations. 
 
-<img src="https://github.com/IgaIgs/web-app-gamification-fdm/blob/main/appScreenCaps/homepage.jpg" alt="alt text" width="711" height="378.5">
+<img src="appScreenCaps/homepage.jpg" alt="alt text" width="711" height="378.5">
 
 The user can select these streams manually or be offered a suggestion from a personality test. 
 * The personality test consists of a set of 5 questions with a selection of answers for each. Answers 
